@@ -8,7 +8,7 @@ This repository contains the code and analysis for a deep-dive into the factors 
 
 The full interactive analysis was built in Tableau and is hosted on Tableau Public. Click the link or the image below to explore the data and findings yourself.
 
-** [Link to your Live Tableau Dashboard Here]](https://public.tableau.com/app/profile/shaivya.shankar/viz/Genderbased_income_analysis/Genderbasedincomeanalysis)**
+** (https://public.tableau.com/app/profile/shaivya.shankar/viz/Genderbased_income_analysis/Genderbasedincomeanalysis)**
 
 ## Installation & Setup
 
