@@ -1,8 +1,6 @@
-# Gender Pay Gap Analysis: A Data-Driven Study of the 1994 U.S. Census
-
 ## Project Overview
 
-This repository contains the code and analysis for a deep-dive into the factors driving gender-based income disparity, using the 1994 U.S. Census "Adult" dataset. The project's goal was to preprocess a complex, real-world dataset, build an interactive dashboard to explore the nuances of the pay gap, and apply advanced dimensionality reduction techniques to uncover hidden structures in the data. The analysis confirms a persistent pay gap and identifies the private sector as the area with the most significant income disparity between genders.
+This repository contains the code and analysis for a deep dive into the factors driving gender-based income disparity, using the 1994 U.S. Census "Adult" dataset. The project's goal was to preprocess a complex, real-world dataset, build an interactive dashboard to explore the nuances of the pay gap, and apply advanced dimensionality reduction techniques to uncover hidden structures in the data. The analysis confirms a persistent pay gap and identifies the private sector as the area with the most significant income disparity between genders.
 
 ##  View the Live Dashboard
 
